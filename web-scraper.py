@@ -1,3 +1,4 @@
+from cgitb import html
 from bs4 import BeautifulSoup
 import requests
 
@@ -14,10 +15,26 @@ import requests
 # for name in names:
 #     print(name.string)
 
-url = 'https://www.california-demographics.com/cities_by_population'
+# url = 'https://www.california-demographics.com/cities_by_population'
+# r = requests.get(url)
+# html_doc = r.text
+# soup = BeautifulSoup(html_doc, "lxml")
+
+# # Find the table body
+# tbody = soup.tbody
+
+# # Finds all the table rows
+# trs = tbody.contents
+
+# print(trs)
+
+##### Coinbase test web scraper 
+
+url = 'https://coinmarketcap.com/'
 r = requests.get(url)
 html_doc = r.text
-
 soup = BeautifulSoup(html_doc)
 
-print(soup.find_all('a'))
+tbody = soup.tbody
+
+print(tbody)
