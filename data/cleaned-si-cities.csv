@@ -1,335 +1,335 @@
-,Agency,Base Pay,Other Pay,Overtime Pay,Total Pay,Benefits,Total Pay & Benefits,City
-0,Ontario-Montclair,355285,197112,0,552397,167573,719970,Montclair
-1,Wheatland Union High,233539,10099,0,243639,342424,586063,Wheatland
-2,Corona-Norco Unified,398979,57050,0,456029,80208,536238,Corona
-3,College of the Desert,399006,60457,0,459463,66557,526020,Palm Desert
-4,Sequoia Union High,192784,259544,0,452329,66560,518889,Redwood City
-5,Stockton Unified,141625,338083,0,479708,38827,518535,Stockton
-6,Fremont Union High,409914,7970,0,417884,91355,509239,Fremont
-8,Elk Grove Unified,354818,34061,0,388879,115168,504047,Elk Grove
-9,Beaumont Unified,185804,269653,0,455457,48482,503939,Beaumont
-10,Twin Rivers Unified,364075,5266,0,369341,108961,478302,Riverbank
-12,Cajon Valley Union,335055,57464,0,392519,68167,460686,El Cajon
-14,Orange County Department of Education,364895,0,0,364895,85559,450454,Orange
-17,Tustin Unified,359076,6995,0,366071,79354,445425,Tustin
-19,Redondo Beach Unified,360328,2401,0,362729,80518,443247,Redondo Beach
-20,Citrus College,351010,7020,0,358030,83943,441973,Citrus Heights
-21,San Diego County Office of Education,344103,15954,0,360057,79743,439800,San Diego
-22,San Leandro Unified,354061,25651,0,379712,59898,439611,San Leandro
-23,Livermore Valley Joint Unified,339550,17009,0,356559,79355,435915,Livermore
-25,Oakland Unified,327295,29633,0,356929,71554,428483,Oakland
-26,Santa Barbara City College,318930,36500,0,355430,71764,427195,Santa Barbara
-27,Fresno Unified,332377,18625,0,351002,75384,426386,Fresno
-28,Santa Rosa Junior College,324017,17280,0,341297,80011,421308,Santa Rosa
-29,Santa Clara County Office of Education,352827,26710,0,379537,41166,420703,Santa Clara
-30,Mountain View-Los Altos Union High,306712,40108,0,346821,71946,418768,Los Altos
-31,Irvine Unified,351386,3490,0,354876,62902,417778,Irvine
-32,Long Beach City College,76511,318639,0,395150,22070,417220,Long Beach
-33,Walnut Valley Unified,323494,13049,0,336543,78868,415412,Walnut
-34,Bakersfield City,289388,49941,0,339329,75496,414825,Bakersfield
-35,Placentia-Yorba Linda Unified,334839,0,0,334839,78263,413102,Placentia
-37,Los Angeles County Office of Education,336349,18553,0,354902,57004,411906,Los Angeles
-38,West Covina Unified,313135,17210,0,330345,79960,410305,Covina
-40,Rialto Unified,283397,64180,0,347577,60074,407651,Rialto
-41,Arcadia Unified,308403,43200,0,351603,53255,404858,Arcadia
-44,Orange Unified,320606,12542,0,333148,69470,402618,Orange
-47,Downey Unified,297515,23844,0,321359,78550,399909,Downey
-48,Glendale Unified,310000,18500,0,328500,70866,399366,Glendale
-49,Lake Elsinore Unified,271341,59525,0,330866,66866,397732,Lake Elsinore
-50,Sacramento City Unified,314392,0,0,314392,81599,395992,Sacramento
-51,Claremont Unified,316929,0,0,316929,76966,393895,Claremont
-52,Whittier Union High,292924,3228,0,296153,95792,391945,Whittier
-53,Huntington Beach Union High,314885,2000,0,316885,75046,391931,Huntington Beach
-54,Palo Alto Unified,313635,0,0,313635,78241,391876,Palo Alto
-55,Santa Ana Unified,322245,14570,0,336815,54307,391122,Santa Ana
-56,Pasadena Unified,270962,21500,0,292463,98448,390911,Pasadena
-57,Chula Vista Elementary,311680,13686,0,325366,60607,385973,Chula Vista
-58,Poway Unified,312084,0,0,312084,73872,385956,Poway
-59,Manteca Unified,284070,21000,0,305070,79922,384992,Manteca
-63,Rio Hondo College,277750,21954,0,299704,82102,381807,Rio Dell
-64,San Ramon Valley Unified,243990,82979,0,326969,53341,380310,San Ramon
-65,San Mateo Union High,322400,4200,0,326600,53599,380199,San Mateo
-67,Cerritos College,307894,19752,0,327646,51225,378871,Cerritos
-68,San Francisco Unified,309999,0,0,309999,68711,378711,San Francisco
-69,Culver City Unified,242310,77215,0,319525,59186,378711,Culver City
-70,Pomona Unified,295991,8879,0,304870,71731,376602,Pomona
-71,Chino Valley Unified,284792,35691,0,320483,56048,376531,Chino
-73,Newport-Mesa Unified,292452,10200,0,302652,73047,375699,Costa Mesa
-74,Napa Valley Unified,309833,17320,0,327154,47183,374337,Napa
-75,Mountain View Whisman,305980,2000,0,307980,65863,373843,Mountain View
-76,Union Elementary,304570,1800,0,306370,66570,372941,Union City
-78,Pleasanton Unified,304179,14692,0,318872,53467,372339,Pleasanton
-79,Baldwin Park Unified,281502,13200,0,294702,77622,372324,Baldwin Park
-80,Las Lomitas Elementary,283185,19670,0,302855,68312,371168,Lomita
-82,Compton Unified,271067,43090,0,314157,56884,371041,Compton
-84,Covina-Valley Unified,273754,46465,0,320219,50119,370338,Covina
-85,Garden Grove Unified,298016,2435,0,300451,69800,370251,Garden Grove
-86,Santa Clara Unified,277750,20287,0,298037,71043,369080,Santa Clara
-87,Fullerton Elementary,279043,21190,0,300233,67800,368033,Fullerton
-88,San Jose Unified,275313,8679,0,283992,83309,367301,San Jose
-89,Fairfield-Suisun Unified,279512,0,0,279512,87518,367030,Fairfield
-91,Riverside Unified,300397,0,0,300397,64794,365191,Riverside
-93,San Bernardino County Office of Education,289966,8300,0,298266,65161,363427,San Bernardino
-94,Fullerton Joint Union High,285406,4559,0,289965,73436,363401,Fullerton
-95,Del Mar Union Elementary,289235,13000,0,302235,59756,361991,Del Mar
-97,Menlo Park City Elementary,263351,42553,0,305905,53769,359675,Menlo Park
-98,Long Beach Unified,279304,5412,0,284716,73433,358150,Long Beach
-99,Anaheim Elementary,289785,0,0,289785,68060,357845,Anaheim
-101,Lynwood Unified,199583,59093,0,258676,98850,357527,Lynwood
-102,Gavilan College,285558,7800,0,293358,63415,356773,Lincoln
-104,Napa County Office of Education,275207,5520,0,280727,74921,355648,Napa
-105,Los Alamitos Unified,277309,18043,0,295352,59982,355334,Los Alamitos
-107,Huntington Beach City Elementary,167433,144391,0,311824,43129,354953,Huntington Beach
-108,Beverly Hills Unified,286761,9000,0,295761,58387,354148,Beverly Hills
-109,Los Altos Elementary,247263,43262,0,290525,63287,353812,Los Altos
-112,Palos Verdes Peninsula Unified,292444,1200,0,293644,57384,351028,Dos Palos
-113,Riverside County Office of Education,283005,8250,0,291255,59680,350935,Riverside
-114,Laguna Beach Unified,273768,3000,0,276768,73532,350300,Laguna Beach
-115,Paramount Unified,293505,1000,0,294505,55687,350192,Paramount
-116,Alhambra Unified,276744,24765,0,301509,47029,348538,Alhambra
-118,Desert Sands Unified,285000,23443,0,308443,39531,347974,Palm Desert
-119,Dry Creek Joint Elementary,237074,48526,0,285600,61361,346962,Sutter Creek
-120,San Joaquin County Office of Education,264681,10672,0,275354,69976,345330,San Joaquin
-121,Alameda County Office of Education,291864,4200,0,296064,49166,345231,Alameda
-122,San Mateo County Office of Education,235428,16368,0,251796,93062,344859,San Mateo
-123,Hillsborough City Elementary,258768,18385,0,277153,66944,344098,Amador City
-124,Sunnyvale School District,269772,20821,0,290593,53345,343938,Sunnyvale
-125,Corona-Norco Unified,252334,39041,0,291375,52337,343713,Corona
-126,Centralia Elementary,268446,26947,0,295393,48291,343684,Hemet
-127,Savanna Elementary,276320,13086,0,289406,53809,343215,Hemet
-128,Mt San Jacinto College,265151,5242,0,270393,72254,342647,San Jacinto
-129,Oceanside Unified,268882,10686,0,279568,61675,341243,Oceanside
-130,Riverside County Office of Education,281302,1850,0,283152,57733,340885,Riverside
-131,Anaheim Union High,269089,8236,0,277325,63257,340582,Anaheim
-132,ABC Unified,268760,19119,0,287879,52516,340395,Auburn
-133,San Joaquin Delta College,258302,4272,0,262574,77026,339601,San Joaquin
-134,Lammersville Joint Unified,234572,26958,0,261530,77808,339339,Farmersville
-135,San Dieguito Union High,275323,0,0,275323,63992,339315,San Bernardino
-136,Antioch Unified,266572,15901,0,282474,56600,339075,Antioch
-137,Soledad Unified,247814,13169,0,260984,77982,338966,Soledad
-138,South Pasadena Unified,265089,13200,0,278289,59507,337796,Pasadena
-139,Moreno Valley Unified,282556,0,0,282556,54654,337211,Moreno Valley
-140,Butte-Glenn Community College District,256661,9820,0,266481,70068,336549,Blue Lake
-141,Hacienda la Puente Unified,281444,0,0,281444,54371,335816,La Puente
-142,Reed Union Elementary,269725,1699,0,271425,63205,334631,Union City
-143,Palm Springs Unified,271617,0,0,271617,61640,333257,Palm Springs
-144,Napa Valley College,246588,37187,0,283775,49104,332880,Napa
-145,El Dorado Union High,261902,0,0,261902,69115,331018,El Cajon
-146,Sweetwater Union High,224592,53734,0,278326,51330,329656,Union City
-147,East Whittier City Elementary,250450,15813,0,266263,63318,329581,Whittier
-148,College of the Sequoias,249999,9000,0,258999,69765,328765,El Monte
-149,El Segundo Unified,252498,7802,0,260300,68060,328360,El Segundo
-150,Fontana Unified,250000,9615,0,259615,68616,328231,Fontana
-151,La Mesa-Spring Valley,251287,12000,0,263287,64907,328194,La Mesa
-152,Oro Grande,254685,27673,0,282358,45566,327924,Arroyo Grande
-153,Los Gatos-Saratoga Union High,260000,2760,0,262760,64739,327499,Saratoga
-154,Mill Valley Elementary,268077,7200,0,275277,51485,326763,Mill Valley
-155,Franklin-McKinley Elementary,247572,6000,0,253572,71734,325306,Hemet
-156,Cupertino Union,246678,31826,0,278504,46767,325271,Cupertino
-157,Temple City Unified,249333,25671,0,275004,49885,324889,Temple City
-158,Stanislaus County Office of Education,246024,2973,0,248997,75617,324614,Clayton
-159,Sunnyvale School District,174100,99509,0,273609,48885,322494,Sunnyvale
-160,Coachella Valley Unified,250000,9000,0,259000,63102,322102,Coachella
-161,Morgan Hill Unified,266834,4200,0,271034,50445,321479,Morgan Hill
-162,Lodi Unified,268296,8400,0,276696,44604,321300,Lodi
-163,Magnolia Elementary,256425,7200,0,263625,57537,321162,Hemet
-164,Brea-Olinda Unified,261332,4751,0,266083,54975,321058,Brea
-165,Redlands Unified,245885,19473,0,265358,55440,320798,Redlands
-166,Clovis Unified,230000,33997,0,263997,56748,320745,Clovis
-167,Saratoga Union Elementary,249000,667,0,249667,70822,320490,Saratoga
-168,Alvord Unified,271364,0,0,271364,49030,320394,Fairfield
-169,Victor Valley Union High,257125,1500,0,258625,61557,320182,Fountain Valley
-170,Hesperia Unified,260689,591,0,261280,58655,319936,Hesperia
-171,Jefferson Elementary-San Mateo,246476,6000,0,252476,67292,319769,San Mateo
-172,Monterey County Office of Education,235845,5480,0,241325,78360,319685,Monterey
-173,Shasta College,260079,0,500,260579,58667,319246,Shasta Lake
-174,La Habra City Elementary,268035,0,0,268035,50949,318984,La Habra
-175,Conejo Valley Unified,260139,0,0,260139,58757,318896,Grass Valley
-176,Saint Helena Unified,272125,20,0,272145,46550,318696,St. Helena
-177,Norwalk-La Mirada Unified,240738,14737,0,255475,62723,318199,La Mirada
-178,Winton,262330,4638,0,266968,51011,317979,Huntington Beach
-179,Ventura County Office of Education,245999,600,0,246599,71051,317650,Ventura
-180,Simi Valley Unified,254933,5057,0,259990,57185,317176,Simi Valley
-181,Escondido Union High,252706,0,0,252706,64316,317022,Escondido
-182,Moreland,258156,0,0,258156,58851,317008,Orland
-183,Lompoc Unified,254382,21996,0,276379,40326,316705,Lompoc
-184,Palo Verde College,250071,0,0,250071,66170,316241,Palo Alto
-185,Ohlone College,191738,74113,3834,269687,46024,315712,Ione
-186,Rocklin Unified,262107,1137,0,263245,51836,315081,Rocklin
-187,Hawthorne School District,232338,17119,0,249458,65335,314794,Hawthorne
-188,Stockton Unified,212940,37728,0,250669,63586,314255,Stockton
-189,Monrovia Unified,236981,11716,0,248697,65545,314243,Monrovia
-190,Burbank Unified,248007,2661,0,250669,63380,314050,Burbank
-191,Roseville Joint Union High,244116,16937,0,261053,52935,313989,Roseville
-192,Washington Unified-Yolo,230098,33578,0,263676,50060,313736,Arvin
-193,Davis Joint Unified,253231,12053,0,265285,48360,313645,Davis
-194,Redwood City Elementary,230592,15691,0,246283,67159,313443,Redwood City
-195,El Monte City,244445,6600,0,251045,62260,313305,El Monte
-196,Charter Oak Unified,238948,9960,0,248908,64117,313025,Live Oak
-197,Lancaster Elementary,240236,11020,0,251256,61709,312965,Lancaster
-198,Ceres Unified,239792,19260,0,259052,53734,312786,Ceres
-199,Fillmore Unified,228948,22694,0,251642,60680,312323,Fillmore
-200,South Whittier Elementary,225545,23178,0,248723,63159,311882,Whittier
-201,Manhattan Beach Unified,242157,28956,0,271113,40648,311761,Manhattan Beach
-202,Tracy Joint Unified,231260,25458,0,256718,55021,311740,Tracy
-203,South San Francisco Unified,249000,20807,0,269807,41778,311586,South San Francisco
-204,San Marcos Unified,258775,7948,0,266723,44226,310949,San Marcos
-206,Santa Rosa City Schools,223986,45301,0,269288,41414,310702,Santa Rosa
-207,San Marino Unified,255888,7200,0,263088,47280,310368,San Marino
-208,Fountain Valley Elementary,254201,3600,0,257801,52462,310263,Fountain Valley
-209,Taft College,227384,20199,0,247584,62637,310221,Taft
-211,Kerman Unified,218143,43885,0,262028,47092,309121,Kerman
-212,Chico Unified,238553,108,0,238661,69923,308585,Chico
-214,Gilroy Unified,230468,21699,0,252168,56036,308204,Gilroy
-218,El Centro Elementary,229357,20486,0,249843,57193,307037,El Centro
-219,Santa Maria Joint Union High,254625,0,0,254625,52333,306958,Santa Maria
-220,Merced City Elementary,247428,1080,0,248508,57229,305737,Merced
-221,Sonoma County Office of Education,248984,5600,0,254584,51063,305647,Sonoma
-222,Hayward Unified,134238,150228,0,284466,20443,304910,Hayward
-224,Vista Unified,260000,0,0,260000,43225,303225,Vista
-225,Escondido Union,245102,4800,0,249902,53234,303136,Escondido
-227,Monterey Peninsula Unified,236755,14502,0,251257,51366,302623,Monterey
-228,Long Beach Unified,168781,87300,0,256081,46461,302542,Long Beach
-229,Santa Monica-Malibu Unified,237868,10800,0,248668,53863,302531,Malibu
-230,Whittier City Elementary,234443,5861,0,240304,61841,302145,Whittier
-231,Murrieta Valley Unified,248268,1261,0,249529,52323,301852,Murrieta
-232,Pittsburg Unified,240000,13222,0,253222,48483,301705,Pittsburg
-233,Ocean View-Ventura,216732,36679,0,253411,47933,301344,Ventura
-234,Hueneme Elementary,222079,21576,0,243655,57532,301188,Port Hueneme
-236,San Mateo-Foster City,235522,20190,0,255712,45023,300735,Foster City
-237,Porterville Unified,235547,7375,0,242923,57544,300467,Porterville
-239,Brentwood Union Elementary,237053,2853,0,239907,60369,300276,Brentwood
-240,Tulare County Office of Education,254131,0,0,254131,46137,300268,Tulare
-243,Portola Valley Elementary,217499,2100,0,219599,78624,298224,Portola
-244,Patterson Joint Unified,242269,0,0,242269,55645,297915,Patterson
-245,Roseville City Elementary,226114,7200,0,233314,63576,296890,Roseville
-249,Novato Unified,232714,8855,0,241569,54521,296090,Novato
-250,Larkspur-Corte Madera,234163,9999,0,244162,51865,296028,Larkspur
-251,Buena Park Elementary,220210,16243,0,236453,59484,295937,Buena Park
-253,Oakley Union Elementary,214825,33423,0,248248,46406,294655,Oakley
-255,Ocean View-Orange,238945,6000,0,244945,48814,293759,Orange
-257,Cabrillo Unified,207445,10515,0,217960,74713,292674,Camarillo
-258,Temecula Valley Unified,226420,15719,0,242139,50396,292535,Temecula
-259,Hilmar Unified,207858,32234,0,240092,51811,291903,Marina
-260,Perris Elementary,241004,0,0,241004,50456,291460,Perris
-261,Carlsbad Unified,247490,0,0,247490,43612,291102,Carlsbad
-262,Salinas Union High,231415,0,0,231415,59540,290956,Salinas
-263,North Monterey County Unified,200602,1135,20642,222379,68515,290895,Monterey
-264,Lincoln Unified,227718,6000,0,233718,57150,290868,Lincoln
-265,Berkeley Unified,231165,750,0,231915,58930,290845,Berkeley
-267,Encinitas Union Elementary,229812,22387,0,252199,38193,290392,Encinitas
-268,Colton Joint Unified,233508,2187,0,235695,54336,290031,Colton
-269,Scotts Valley Unified,229606,2065,0,231671,57849,289521,Scotts Valley
-270,Cotati-Rohnert Park Unified,226763,5624,0,232387,56979,289367,Cotati
-271,Piedmont City Unified,229475,0,0,229475,59611,289086,Piedmont
-272,Alameda Unified,234166,7580,0,241747,47005,288752,Alameda
-274,Chowchilla Elementary,224006,13906,0,237913,49524,287438,Chowchilla
-276,Santee School District,210058,34912,0,244970,42055,287025,Santee
-277,Santa Maria-Bonita,228916,6000,0,234916,51987,286904,Santa Maria
-279,Walnut Creek Elementary,206435,44236,0,250671,35957,286628,Walnut
-280,Westminster School District,238309,0,0,238309,48263,286572,Westminster
-281,Rosemead Elementary,198744,23741,0,222485,63644,286129,Rosemead
-282,Oxnard School District,235000,0,0,235000,50973,285973,Oxnard
-285,Yucaipa-Calimesa Joint Unified,228842,2756,0,231598,52818,284416,Calimesa
-287,Ventura Unified,229456,500,0,229956,53934,283890,Ventura
-289,Long Beach City College,223347,0,0,223347,59275,282622,Long Beach
-290,Imperial Valley College,210000,15995,0,225995,56602,282598,Imperial
-292,Merced City Elementary,36447,241110,0,277557,4685,282242,Merced
-293,Woodland Joint Unified,235389,0,0,235389,46529,281918,Woodland
-294,Cypress Elementary,232751,0,0,232751,48973,281724,Cypress
-295,Monterey Peninsula College,219855,3996,0,223851,57300,281151,Monterey
-296,Delano Union Elementary,223625,2633,0,226258,54669,280927,Delano
-301,South Monterey County Joint Union High,222500,7020,0,229520,49583,279103,Monterey
-304,Lafayette Elementary,225773,6089,0,231862,46097,277959,Lafayette
-305,Alta Loma Elementary,237644,0,0,237644,39713,277357,Loma Linda
-308,Turlock Unified,220701,3000,0,223701,53193,276894,Turlock
-310,Visalia Unified,254473,1200,0,255673,20947,276621,Visalia
-314,Temecula Valley Unified,193953,43201,0,237154,38653,275807,Temecula
-315,Rio Elementary,211635,0,0,211635,64147,275782,Rio Dell
-317,Greenfield Union Elementary,218400,6000,0,224400,51111,275511,Greenfield
-318,Solana Beach Elementary,219300,0,0,219300,55605,274905,Solana Beach
-322,Newman-Crows Landing Unified,214752,17537,0,232289,40281,272571,Newman
-323,El Monte Union High,214085,11617,0,225702,46863,272565,El Monte
-324,Delano Joint Union High,209150,12336,0,221486,50775,272262,Delano
-327,Sanger Unified,220532,0,0,220532,51040,271573,Sanger
-329,Madera County Superintendent of Schools,222438,480,0,222918,47850,270768,Madera
-332,Lindsay Unified,211362,10684,7411,229457,40718,270175,Lindsay
-333,Hemet Unified,230685,6000,0,236685,33063,269748,Hemet
-334,Albany City Unified,211122,9973,0,221096,47788,268884,Albany
-337,Yuba City Unified,213920,6597,0,220517,47611,268129,Yuba City
-338,Santa Paula Unified,225500,5033,0,230533,37489,268022,Santa Paula
-339,Eureka City Schools,202486,20259,0,222745,44633,267378,Eureka
-341,Dublin Unified,228066,0,0,228066,38400,266466,Dublin
-343,Modesto City Schools,175000,3800,0,178800,86489,265289,Modesto
-346,Mountain View Elementary-Los Angeles,215486,3016,0,218502,45664,264166,Los Angeles
-347,Folsom-Cordova Unified,249124,0,0,249124,15004,264128,Folsom
-348,Calexico Unified,200430,3600,0,204030,59247,263277,Calexico
-350,Imperial Unified,207724,477,0,208201,54089,262291,Imperial
-351,King City Union,211973,0,0,211973,50274,262247,King City
-353,Hollister School District,209000,0,0,209000,53148,262148,Hollister
-354,Duarte Unified,217944,6459,0,224403,37294,261697,Duarte
-356,Sonoma Valley Unified,210860,5575,0,216436,43985,260421,Sonoma
-357,Merced Union High,196504,18787,0,215291,45004,260295,Merced
-358,Moorpark Unified,204228,0,0,204228,55067,259295,Moorpark
-359,Soledad Unified,185146,6078,0,191224,67799,259023,Soledad
-360,Pacifica-San Mateo,212040,900,0,212940,45972,258912,Pacifica
-362,Ripon Unified,197232,14114,0,211347,46962,258309,Ripon
-363,Shasta Union High,209856,0,0,209856,48390,258247,Shasta Lake
-367,Gonzales Unified,194854,13053,0,207908,49817,257726,Gonzales
-369,San Carlos Elementary,207499,0,0,207499,50047,257547,San Carlos
-370,Marysville Joint Unified,207200,14,0,207214,49791,257005,Marysville
-371,Azusa Unified,216700,2796,0,219496,36604,256100,Azusa
-372,Newhall,200000,13130,0,213130,42329,255459,Newark
-373,Dinuba Unified,194844,12403,0,207247,48209,255456,Dinuba
-374,Needles Unified,178500,28392,0,206892,47644,254536,Needles
-376,Baldy View ROP,204472,4309,0,208781,45048,253829,Morro Bay
-377,Mountain View Elementary-San Bernardino,210337,8270,0,218607,35125,253732,Mountain View
-378,Atwater Elementary,204904,1000,0,205904,47816,253720,Atwater
-381,Shasta County Office of Education,204492,1200,0,205692,46599,252291,Mount Shasta
-384,Selma Unified,183800,23654,0,207454,44300,251755,Selma
-385,Torrance Unified,160091,57263,0,217354,34267,251621,Torrance
-391,Oxnard Union High,199266,1936,0,201202,49048,250251,Oxnard
-392,Hart-Ransom Union Elementary,202184,4500,0,206684,43192,249876,Union City
-393,Los Banos Unified,195100,1000,0,196100,53447,249547,Los Banos
-394,Upland Unified,182066,12292,0,194358,55030,249388,Upland
-396,Livingston Union,191676,8856,0,200532,48624,249156,Livingston
-397,Loma Prieta Joint Union Elementary,211124,0,0,211124,37720,248845,Loma Linda
-398,Dixon Unified,186594,4385,0,190979,57659,248638,Dixon
-401,Carpinteria Unified,185468,6200,0,191668,54564,246232,Carpinteria
-402,Eureka Union,203858,0,0,203858,41811,245670,Eureka
-405,Atascadero Unified,201047,0,0,201047,43780,244827,Atascadero
-408,Waterford Unified,188191,13800,0,201991,42364,244355,Waterford
-409,Firebaugh-Las Deltas Unified,191469,0,0,191469,51990,243460,Firebaugh
-410,Healdsburg Unified,195271,1500,0,196771,46593,243364,Healdsburg
-411,Hermosa Beach City Elementary,203409,0,0,203409,39803,243212,Hermosa Beach
-412,Kingsburg Elementary Charter,183204,16159,0,199364,43744,243108,Kingsburg
-421,Mendota Unified,174678,49130,0,223808,16836,240645,Mendota
-422,Ukiah Unified,197733,0,0,197733,42502,240235,Ukiah
-425,McFarland Unified,180250,7960,0,188210,50974,239184,McFarland
-428,Brawley Elementary,185733,10419,0,196152,42117,238270,Brawley
-429,Pleasant Valley,196920,0,0,196920,41267,238187,Pleasant Hill
-431,Corcoran Joint Unified,191570,0,0,191570,46338,237908,Corcoran
-433,Live Oak Elementary,190662,0,0,190662,46902,237564,Live Oak
-434,Coalinga-Huron Unified,187206,4833,0,192039,45358,237398,Coalinga
-435,Hanford Joint Union High,183699,4800,0,188499,48667,237166,Hanford
-438,Cupertino Union,150246,51471,0,201717,34741,236459,Cupertino
-439,Vacaville Unified,195723,6600,0,202323,33649,235973,Vacaville
-442,West Sonoma County Union High,180744,5400,0,186144,49278,235422,Sonoma
-444,Placerville Union Elementary,167258,3999,0,171258,63036,234295,Placerville
-445,Covina-Valley Unified,186725,7612,0,194337,39680,234017,Covina
-447,Biggs Unified,158671,40917,0,199588,33952,233540,Biggs
-448,Parlier Unified,174033,14127,0,188161,45173,233334,Parlier
-450,Auburn Union Elementary,192801,0,0,192801,39588,232390,Auburn
-454,North Orange County ROP-Adult,182038,7215,0,189253,42309,231562,Orange
-456,Susanville Elementary,0,180056,0,180056,51224,231281,Susanville
-457,Paso Robles Joint Unified,181907,7020,0,188927,42177,231104,Paso Robles
-459,Escalon Unified,185950,0,0,185950,44576,230527,Escalon
-462,Kingsburg Joint Union High,184207,0,0,184207,46104,230311,Kingsburg
-463,Gridley Unified,185371,2616,0,187988,41976,229965,Gridley
-465,Oroville Union High,186929,0,0,186929,42608,229538,Oroville
-468,Live Oak Unified,178818,0,0,178818,49884,228703,Live Oak
-470,Oroville City Elementary,174705,11360,0,186065,42166,228232,Oroville
-475,Hope Elementary-Santa Barbara,185768,0,0,185768,41569,227337,Santa Barbara
-477,Fremont Unified,194052,0,0,194052,32572,226625,Fremont
-478,Dos Palos Oro Loma Joint Unified,178495,2499,0,180994,45129,226123,Dos Palos
-480,Hughson Unified,185357,9099,0,194457,31061,225518,Hughson
+Agency,Base Pay,Other Pay,Overtime Pay,Total Pay,Benefits,Total Pay & Benefits,City
+Ontario-Montclair,355285,197112,0,552397,167573,719970,Montclair
+Wheatland Union High,233539,10099,0,243639,342424,586063,Wheatland
+Corona-Norco Unified,398979,57050,0,456029,80208,536238,Corona
+College of the Desert,399006,60457,0,459463,66557,526020,Palm Desert
+Sequoia Union High,192784,259544,0,452329,66560,518889,Redwood City
+Stockton Unified,141625,338083,0,479708,38827,518535,Stockton
+Fremont Union High,409914,7970,0,417884,91355,509239,Fremont
+Elk Grove Unified,354818,34061,0,388879,115168,504047,Elk Grove
+Beaumont Unified,185804,269653,0,455457,48482,503939,Beaumont
+Twin Rivers Unified,364075,5266,0,369341,108961,478302,Riverbank
+Cajon Valley Union,335055,57464,0,392519,68167,460686,El Cajon
+Orange County Department of Education,364895,0,0,364895,85559,450454,Orange
+Tustin Unified,359076,6995,0,366071,79354,445425,Tustin
+Redondo Beach Unified,360328,2401,0,362729,80518,443247,Redondo Beach
+Citrus College,351010,7020,0,358030,83943,441973,Citrus Heights
+San Diego County Office of Education,344103,15954,0,360057,79743,439800,San Diego
+San Leandro Unified,354061,25651,0,379712,59898,439611,San Leandro
+Livermore Valley Joint Unified,339550,17009,0,356559,79355,435915,Livermore
+Oakland Unified,327295,29633,0,356929,71554,428483,Oakland
+Santa Barbara City College,318930,36500,0,355430,71764,427195,Santa Barbara
+Fresno Unified,332377,18625,0,351002,75384,426386,Fresno
+Santa Rosa Junior College,324017,17280,0,341297,80011,421308,Santa Rosa
+Santa Clara County Office of Education,352827,26710,0,379537,41166,420703,Santa Clara
+Mountain View-Los Altos Union High,306712,40108,0,346821,71946,418768,Los Altos
+Irvine Unified,351386,3490,0,354876,62902,417778,Irvine
+Long Beach City College,76511,318639,0,395150,22070,417220,Long Beach
+Walnut Valley Unified,323494,13049,0,336543,78868,415412,Walnut
+Bakersfield City,289388,49941,0,339329,75496,414825,Bakersfield
+Placentia-Yorba Linda Unified,334839,0,0,334839,78263,413102,Placentia
+Los Angeles County Office of Education,336349,18553,0,354902,57004,411906,Los Angeles
+West Covina Unified,313135,17210,0,330345,79960,410305,Covina
+Rialto Unified,283397,64180,0,347577,60074,407651,Rialto
+Arcadia Unified,308403,43200,0,351603,53255,404858,Arcadia
+Orange Unified,320606,12542,0,333148,69470,402618,Orange
+Downey Unified,297515,23844,0,321359,78550,399909,Downey
+Glendale Unified,310000,18500,0,328500,70866,399366,Glendale
+Lake Elsinore Unified,271341,59525,0,330866,66866,397732,Lake Elsinore
+Sacramento City Unified,314392,0,0,314392,81599,395992,Sacramento
+Claremont Unified,316929,0,0,316929,76966,393895,Claremont
+Whittier Union High,292924,3228,0,296153,95792,391945,Whittier
+Huntington Beach Union High,314885,2000,0,316885,75046,391931,Huntington Beach
+Palo Alto Unified,313635,0,0,313635,78241,391876,Palo Alto
+Santa Ana Unified,322245,14570,0,336815,54307,391122,Santa Ana
+Pasadena Unified,270962,21500,0,292463,98448,390911,Pasadena
+Chula Vista Elementary,311680,13686,0,325366,60607,385973,Chula Vista
+Poway Unified,312084,0,0,312084,73872,385956,Poway
+Manteca Unified,284070,21000,0,305070,79922,384992,Manteca
+Rio Hondo College,277750,21954,0,299704,82102,381807,Rio Dell
+San Ramon Valley Unified,243990,82979,0,326969,53341,380310,San Ramon
+San Mateo Union High,322400,4200,0,326600,53599,380199,San Mateo
+Cerritos College,307894,19752,0,327646,51225,378871,Cerritos
+San Francisco Unified,309999,0,0,309999,68711,378711,San Francisco
+Culver City Unified,242310,77215,0,319525,59186,378711,Culver City
+Pomona Unified,295991,8879,0,304870,71731,376602,Pomona
+Chino Valley Unified,284792,35691,0,320483,56048,376531,Chino
+Newport-Mesa Unified,292452,10200,0,302652,73047,375699,Costa Mesa
+Napa Valley Unified,309833,17320,0,327154,47183,374337,Napa
+Mountain View Whisman,305980,2000,0,307980,65863,373843,Mountain View
+Union Elementary,304570,1800,0,306370,66570,372941,Union City
+Pleasanton Unified,304179,14692,0,318872,53467,372339,Pleasanton
+Baldwin Park Unified,281502,13200,0,294702,77622,372324,Baldwin Park
+Las Lomitas Elementary,283185,19670,0,302855,68312,371168,Lomita
+Compton Unified,271067,43090,0,314157,56884,371041,Compton
+Covina-Valley Unified,273754,46465,0,320219,50119,370338,Covina
+Garden Grove Unified,298016,2435,0,300451,69800,370251,Garden Grove
+Santa Clara Unified,277750,20287,0,298037,71043,369080,Santa Clara
+Fullerton Elementary,279043,21190,0,300233,67800,368033,Fullerton
+San Jose Unified,275313,8679,0,283992,83309,367301,San Jose
+Fairfield-Suisun Unified,279512,0,0,279512,87518,367030,Fairfield
+Riverside Unified,300397,0,0,300397,64794,365191,Riverside
+San Bernardino County Office of Education,289966,8300,0,298266,65161,363427,San Bernardino
+Fullerton Joint Union High,285406,4559,0,289965,73436,363401,Fullerton
+Del Mar Union Elementary,289235,13000,0,302235,59756,361991,Del Mar
+Menlo Park City Elementary,263351,42553,0,305905,53769,359675,Menlo Park
+Long Beach Unified,279304,5412,0,284716,73433,358150,Long Beach
+Anaheim Elementary,289785,0,0,289785,68060,357845,Anaheim
+Lynwood Unified,199583,59093,0,258676,98850,357527,Lynwood
+Gavilan College,285558,7800,0,293358,63415,356773,Lincoln
+Napa County Office of Education,275207,5520,0,280727,74921,355648,Napa
+Los Alamitos Unified,277309,18043,0,295352,59982,355334,Los Alamitos
+Huntington Beach City Elementary,167433,144391,0,311824,43129,354953,Huntington Beach
+Beverly Hills Unified,286761,9000,0,295761,58387,354148,Beverly Hills
+Los Altos Elementary,247263,43262,0,290525,63287,353812,Los Altos
+Palos Verdes Peninsula Unified,292444,1200,0,293644,57384,351028,Dos Palos
+Riverside County Office of Education,283005,8250,0,291255,59680,350935,Riverside
+Laguna Beach Unified,273768,3000,0,276768,73532,350300,Laguna Beach
+Paramount Unified,293505,1000,0,294505,55687,350192,Paramount
+Alhambra Unified,276744,24765,0,301509,47029,348538,Alhambra
+Desert Sands Unified,285000,23443,0,308443,39531,347974,Palm Desert
+Dry Creek Joint Elementary,237074,48526,0,285600,61361,346962,Sutter Creek
+San Joaquin County Office of Education,264681,10672,0,275354,69976,345330,San Joaquin
+Alameda County Office of Education,291864,4200,0,296064,49166,345231,Alameda
+San Mateo County Office of Education,235428,16368,0,251796,93062,344859,San Mateo
+Hillsborough City Elementary,258768,18385,0,277153,66944,344098,Amador City
+Sunnyvale School District,269772,20821,0,290593,53345,343938,Sunnyvale
+Corona-Norco Unified,252334,39041,0,291375,52337,343713,Corona
+Centralia Elementary,268446,26947,0,295393,48291,343684,Hemet
+Savanna Elementary,276320,13086,0,289406,53809,343215,Hemet
+Mt San Jacinto College,265151,5242,0,270393,72254,342647,San Jacinto
+Oceanside Unified,268882,10686,0,279568,61675,341243,Oceanside
+Riverside County Office of Education,281302,1850,0,283152,57733,340885,Riverside
+Anaheim Union High,269089,8236,0,277325,63257,340582,Anaheim
+ABC Unified,268760,19119,0,287879,52516,340395,Auburn
+San Joaquin Delta College,258302,4272,0,262574,77026,339601,San Joaquin
+Lammersville Joint Unified,234572,26958,0,261530,77808,339339,Farmersville
+San Dieguito Union High,275323,0,0,275323,63992,339315,San Bernardino
+Antioch Unified,266572,15901,0,282474,56600,339075,Antioch
+Soledad Unified,247814,13169,0,260984,77982,338966,Soledad
+South Pasadena Unified,265089,13200,0,278289,59507,337796,Pasadena
+Moreno Valley Unified,282556,0,0,282556,54654,337211,Moreno Valley
+Butte-Glenn Community College District,256661,9820,0,266481,70068,336549,Blue Lake
+Hacienda la Puente Unified,281444,0,0,281444,54371,335816,La Puente
+Reed Union Elementary,269725,1699,0,271425,63205,334631,Union City
+Palm Springs Unified,271617,0,0,271617,61640,333257,Palm Springs
+Napa Valley College,246588,37187,0,283775,49104,332880,Napa
+El Dorado Union High,261902,0,0,261902,69115,331018,El Cajon
+Sweetwater Union High,224592,53734,0,278326,51330,329656,Union City
+East Whittier City Elementary,250450,15813,0,266263,63318,329581,Whittier
+College of the Sequoias,249999,9000,0,258999,69765,328765,El Monte
+El Segundo Unified,252498,7802,0,260300,68060,328360,El Segundo
+Fontana Unified,250000,9615,0,259615,68616,328231,Fontana
+La Mesa-Spring Valley,251287,12000,0,263287,64907,328194,La Mesa
+Oro Grande,254685,27673,0,282358,45566,327924,Arroyo Grande
+Los Gatos-Saratoga Union High,260000,2760,0,262760,64739,327499,Saratoga
+Mill Valley Elementary,268077,7200,0,275277,51485,326763,Mill Valley
+Franklin-McKinley Elementary,247572,6000,0,253572,71734,325306,Hemet
+Cupertino Union,246678,31826,0,278504,46767,325271,Cupertino
+Temple City Unified,249333,25671,0,275004,49885,324889,Temple City
+Stanislaus County Office of Education,246024,2973,0,248997,75617,324614,Clayton
+Sunnyvale School District,174100,99509,0,273609,48885,322494,Sunnyvale
+Coachella Valley Unified,250000,9000,0,259000,63102,322102,Coachella
+Morgan Hill Unified,266834,4200,0,271034,50445,321479,Morgan Hill
+Lodi Unified,268296,8400,0,276696,44604,321300,Lodi
+Magnolia Elementary,256425,7200,0,263625,57537,321162,Hemet
+Brea-Olinda Unified,261332,4751,0,266083,54975,321058,Brea
+Redlands Unified,245885,19473,0,265358,55440,320798,Redlands
+Clovis Unified,230000,33997,0,263997,56748,320745,Clovis
+Saratoga Union Elementary,249000,667,0,249667,70822,320490,Saratoga
+Alvord Unified,271364,0,0,271364,49030,320394,Fairfield
+Victor Valley Union High,257125,1500,0,258625,61557,320182,Fountain Valley
+Hesperia Unified,260689,591,0,261280,58655,319936,Hesperia
+Jefferson Elementary-San Mateo,246476,6000,0,252476,67292,319769,San Mateo
+Monterey County Office of Education,235845,5480,0,241325,78360,319685,Monterey
+Shasta College,260079,0,500,260579,58667,319246,Shasta Lake
+La Habra City Elementary,268035,0,0,268035,50949,318984,La Habra
+Conejo Valley Unified,260139,0,0,260139,58757,318896,Grass Valley
+Saint Helena Unified,272125,20,0,272145,46550,318696,St. Helena
+Norwalk-La Mirada Unified,240738,14737,0,255475,62723,318199,La Mirada
+Winton,262330,4638,0,266968,51011,317979,Huntington Beach
+Ventura County Office of Education,245999,600,0,246599,71051,317650,Ventura
+Simi Valley Unified,254933,5057,0,259990,57185,317176,Simi Valley
+Escondido Union High,252706,0,0,252706,64316,317022,Escondido
+Moreland,258156,0,0,258156,58851,317008,Orland
+Lompoc Unified,254382,21996,0,276379,40326,316705,Lompoc
+Palo Verde College,250071,0,0,250071,66170,316241,Palo Alto
+Ohlone College,191738,74113,3834,269687,46024,315712,Ione
+Rocklin Unified,262107,1137,0,263245,51836,315081,Rocklin
+Hawthorne School District,232338,17119,0,249458,65335,314794,Hawthorne
+Stockton Unified,212940,37728,0,250669,63586,314255,Stockton
+Monrovia Unified,236981,11716,0,248697,65545,314243,Monrovia
+Burbank Unified,248007,2661,0,250669,63380,314050,Burbank
+Roseville Joint Union High,244116,16937,0,261053,52935,313989,Roseville
+Washington Unified-Yolo,230098,33578,0,263676,50060,313736,Arvin
+Davis Joint Unified,253231,12053,0,265285,48360,313645,Davis
+Redwood City Elementary,230592,15691,0,246283,67159,313443,Redwood City
+El Monte City,244445,6600,0,251045,62260,313305,El Monte
+Charter Oak Unified,238948,9960,0,248908,64117,313025,Live Oak
+Lancaster Elementary,240236,11020,0,251256,61709,312965,Lancaster
+Ceres Unified,239792,19260,0,259052,53734,312786,Ceres
+Fillmore Unified,228948,22694,0,251642,60680,312323,Fillmore
+South Whittier Elementary,225545,23178,0,248723,63159,311882,Whittier
+Manhattan Beach Unified,242157,28956,0,271113,40648,311761,Manhattan Beach
+Tracy Joint Unified,231260,25458,0,256718,55021,311740,Tracy
+South San Francisco Unified,249000,20807,0,269807,41778,311586,South San Francisco
+San Marcos Unified,258775,7948,0,266723,44226,310949,San Marcos
+Santa Rosa City Schools,223986,45301,0,269288,41414,310702,Santa Rosa
+San Marino Unified,255888,7200,0,263088,47280,310368,San Marino
+Fountain Valley Elementary,254201,3600,0,257801,52462,310263,Fountain Valley
+Taft College,227384,20199,0,247584,62637,310221,Taft
+Kerman Unified,218143,43885,0,262028,47092,309121,Kerman
+Chico Unified,238553,108,0,238661,69923,308585,Chico
+Gilroy Unified,230468,21699,0,252168,56036,308204,Gilroy
+El Centro Elementary,229357,20486,0,249843,57193,307037,El Centro
+Santa Maria Joint Union High,254625,0,0,254625,52333,306958,Santa Maria
+Merced City Elementary,247428,1080,0,248508,57229,305737,Merced
+Sonoma County Office of Education,248984,5600,0,254584,51063,305647,Sonoma
+Hayward Unified,134238,150228,0,284466,20443,304910,Hayward
+Vista Unified,260000,0,0,260000,43225,303225,Vista
+Escondido Union,245102,4800,0,249902,53234,303136,Escondido
+Monterey Peninsula Unified,236755,14502,0,251257,51366,302623,Monterey
+Long Beach Unified,168781,87300,0,256081,46461,302542,Long Beach
+Santa Monica-Malibu Unified,237868,10800,0,248668,53863,302531,Malibu
+Whittier City Elementary,234443,5861,0,240304,61841,302145,Whittier
+Murrieta Valley Unified,248268,1261,0,249529,52323,301852,Murrieta
+Pittsburg Unified,240000,13222,0,253222,48483,301705,Pittsburg
+Ocean View-Ventura,216732,36679,0,253411,47933,301344,Ventura
+Hueneme Elementary,222079,21576,0,243655,57532,301188,Port Hueneme
+San Mateo-Foster City,235522,20190,0,255712,45023,300735,Foster City
+Porterville Unified,235547,7375,0,242923,57544,300467,Porterville
+Brentwood Union Elementary,237053,2853,0,239907,60369,300276,Brentwood
+Tulare County Office of Education,254131,0,0,254131,46137,300268,Tulare
+Portola Valley Elementary,217499,2100,0,219599,78624,298224,Portola
+Patterson Joint Unified,242269,0,0,242269,55645,297915,Patterson
+Roseville City Elementary,226114,7200,0,233314,63576,296890,Roseville
+Novato Unified,232714,8855,0,241569,54521,296090,Novato
+Larkspur-Corte Madera,234163,9999,0,244162,51865,296028,Larkspur
+Buena Park Elementary,220210,16243,0,236453,59484,295937,Buena Park
+Oakley Union Elementary,214825,33423,0,248248,46406,294655,Oakley
+Ocean View-Orange,238945,6000,0,244945,48814,293759,Orange
+Cabrillo Unified,207445,10515,0,217960,74713,292674,Camarillo
+Temecula Valley Unified,226420,15719,0,242139,50396,292535,Temecula
+Hilmar Unified,207858,32234,0,240092,51811,291903,Marina
+Perris Elementary,241004,0,0,241004,50456,291460,Perris
+Carlsbad Unified,247490,0,0,247490,43612,291102,Carlsbad
+Salinas Union High,231415,0,0,231415,59540,290956,Salinas
+North Monterey County Unified,200602,1135,20642,222379,68515,290895,Monterey
+Lincoln Unified,227718,6000,0,233718,57150,290868,Lincoln
+Berkeley Unified,231165,750,0,231915,58930,290845,Berkeley
+Encinitas Union Elementary,229812,22387,0,252199,38193,290392,Encinitas
+Colton Joint Unified,233508,2187,0,235695,54336,290031,Colton
+Scotts Valley Unified,229606,2065,0,231671,57849,289521,Scotts Valley
+Cotati-Rohnert Park Unified,226763,5624,0,232387,56979,289367,Cotati
+Piedmont City Unified,229475,0,0,229475,59611,289086,Piedmont
+Alameda Unified,234166,7580,0,241747,47005,288752,Alameda
+Chowchilla Elementary,224006,13906,0,237913,49524,287438,Chowchilla
+Santee School District,210058,34912,0,244970,42055,287025,Santee
+Santa Maria-Bonita,228916,6000,0,234916,51987,286904,Santa Maria
+Walnut Creek Elementary,206435,44236,0,250671,35957,286628,Walnut
+Westminster School District,238309,0,0,238309,48263,286572,Westminster
+Rosemead Elementary,198744,23741,0,222485,63644,286129,Rosemead
+Oxnard School District,235000,0,0,235000,50973,285973,Oxnard
+Yucaipa-Calimesa Joint Unified,228842,2756,0,231598,52818,284416,Calimesa
+Ventura Unified,229456,500,0,229956,53934,283890,Ventura
+Long Beach City College,223347,0,0,223347,59275,282622,Long Beach
+Imperial Valley College,210000,15995,0,225995,56602,282598,Imperial
+Merced City Elementary,36447,241110,0,277557,4685,282242,Merced
+Woodland Joint Unified,235389,0,0,235389,46529,281918,Woodland
+Cypress Elementary,232751,0,0,232751,48973,281724,Cypress
+Monterey Peninsula College,219855,3996,0,223851,57300,281151,Monterey
+Delano Union Elementary,223625,2633,0,226258,54669,280927,Delano
+South Monterey County Joint Union High,222500,7020,0,229520,49583,279103,Monterey
+Lafayette Elementary,225773,6089,0,231862,46097,277959,Lafayette
+Alta Loma Elementary,237644,0,0,237644,39713,277357,Loma Linda
+Turlock Unified,220701,3000,0,223701,53193,276894,Turlock
+Visalia Unified,254473,1200,0,255673,20947,276621,Visalia
+Temecula Valley Unified,193953,43201,0,237154,38653,275807,Temecula
+Rio Elementary,211635,0,0,211635,64147,275782,Rio Dell
+Greenfield Union Elementary,218400,6000,0,224400,51111,275511,Greenfield
+Solana Beach Elementary,219300,0,0,219300,55605,274905,Solana Beach
+Newman-Crows Landing Unified,214752,17537,0,232289,40281,272571,Newman
+El Monte Union High,214085,11617,0,225702,46863,272565,El Monte
+Delano Joint Union High,209150,12336,0,221486,50775,272262,Delano
+Sanger Unified,220532,0,0,220532,51040,271573,Sanger
+Madera County Superintendent of Schools,222438,480,0,222918,47850,270768,Madera
+Lindsay Unified,211362,10684,7411,229457,40718,270175,Lindsay
+Hemet Unified,230685,6000,0,236685,33063,269748,Hemet
+Albany City Unified,211122,9973,0,221096,47788,268884,Albany
+Yuba City Unified,213920,6597,0,220517,47611,268129,Yuba City
+Santa Paula Unified,225500,5033,0,230533,37489,268022,Santa Paula
+Eureka City Schools,202486,20259,0,222745,44633,267378,Eureka
+Dublin Unified,228066,0,0,228066,38400,266466,Dublin
+Modesto City Schools,175000,3800,0,178800,86489,265289,Modesto
+Mountain View Elementary-Los Angeles,215486,3016,0,218502,45664,264166,Los Angeles
+Folsom-Cordova Unified,249124,0,0,249124,15004,264128,Folsom
+Calexico Unified,200430,3600,0,204030,59247,263277,Calexico
+Imperial Unified,207724,477,0,208201,54089,262291,Imperial
+King City Union,211973,0,0,211973,50274,262247,King City
+Hollister School District,209000,0,0,209000,53148,262148,Hollister
+Duarte Unified,217944,6459,0,224403,37294,261697,Duarte
+Sonoma Valley Unified,210860,5575,0,216436,43985,260421,Sonoma
+Merced Union High,196504,18787,0,215291,45004,260295,Merced
+Moorpark Unified,204228,0,0,204228,55067,259295,Moorpark
+Soledad Unified,185146,6078,0,191224,67799,259023,Soledad
+Pacifica-San Mateo,212040,900,0,212940,45972,258912,Pacifica
+Ripon Unified,197232,14114,0,211347,46962,258309,Ripon
+Shasta Union High,209856,0,0,209856,48390,258247,Shasta Lake
+Gonzales Unified,194854,13053,0,207908,49817,257726,Gonzales
+San Carlos Elementary,207499,0,0,207499,50047,257547,San Carlos
+Marysville Joint Unified,207200,14,0,207214,49791,257005,Marysville
+Azusa Unified,216700,2796,0,219496,36604,256100,Azusa
+Newhall,200000,13130,0,213130,42329,255459,Newark
+Dinuba Unified,194844,12403,0,207247,48209,255456,Dinuba
+Needles Unified,178500,28392,0,206892,47644,254536,Needles
+Baldy View ROP,204472,4309,0,208781,45048,253829,Morro Bay
+Mountain View Elementary-San Bernardino,210337,8270,0,218607,35125,253732,Mountain View
+Atwater Elementary,204904,1000,0,205904,47816,253720,Atwater
+Shasta County Office of Education,204492,1200,0,205692,46599,252291,Mount Shasta
+Selma Unified,183800,23654,0,207454,44300,251755,Selma
+Torrance Unified,160091,57263,0,217354,34267,251621,Torrance
+Oxnard Union High,199266,1936,0,201202,49048,250251,Oxnard
+Hart-Ransom Union Elementary,202184,4500,0,206684,43192,249876,Union City
+Los Banos Unified,195100,1000,0,196100,53447,249547,Los Banos
+Upland Unified,182066,12292,0,194358,55030,249388,Upland
+Livingston Union,191676,8856,0,200532,48624,249156,Livingston
+Loma Prieta Joint Union Elementary,211124,0,0,211124,37720,248845,Loma Linda
+Dixon Unified,186594,4385,0,190979,57659,248638,Dixon
+Carpinteria Unified,185468,6200,0,191668,54564,246232,Carpinteria
+Eureka Union,203858,0,0,203858,41811,245670,Eureka
+Atascadero Unified,201047,0,0,201047,43780,244827,Atascadero
+Waterford Unified,188191,13800,0,201991,42364,244355,Waterford
+Firebaugh-Las Deltas Unified,191469,0,0,191469,51990,243460,Firebaugh
+Healdsburg Unified,195271,1500,0,196771,46593,243364,Healdsburg
+Hermosa Beach City Elementary,203409,0,0,203409,39803,243212,Hermosa Beach
+Kingsburg Elementary Charter,183204,16159,0,199364,43744,243108,Kingsburg
+Mendota Unified,174678,49130,0,223808,16836,240645,Mendota
+Ukiah Unified,197733,0,0,197733,42502,240235,Ukiah
+McFarland Unified,180250,7960,0,188210,50974,239184,McFarland
+Brawley Elementary,185733,10419,0,196152,42117,238270,Brawley
+Pleasant Valley,196920,0,0,196920,41267,238187,Pleasant Hill
+Corcoran Joint Unified,191570,0,0,191570,46338,237908,Corcoran
+Live Oak Elementary,190662,0,0,190662,46902,237564,Live Oak
+Coalinga-Huron Unified,187206,4833,0,192039,45358,237398,Coalinga
+Hanford Joint Union High,183699,4800,0,188499,48667,237166,Hanford
+Cupertino Union,150246,51471,0,201717,34741,236459,Cupertino
+Vacaville Unified,195723,6600,0,202323,33649,235973,Vacaville
+West Sonoma County Union High,180744,5400,0,186144,49278,235422,Sonoma
+Placerville Union Elementary,167258,3999,0,171258,63036,234295,Placerville
+Covina-Valley Unified,186725,7612,0,194337,39680,234017,Covina
+Biggs Unified,158671,40917,0,199588,33952,233540,Biggs
+Parlier Unified,174033,14127,0,188161,45173,233334,Parlier
+Auburn Union Elementary,192801,0,0,192801,39588,232390,Auburn
+North Orange County ROP-Adult,182038,7215,0,189253,42309,231562,Orange
+Susanville Elementary,0,180056,0,180056,51224,231281,Susanville
+Paso Robles Joint Unified,181907,7020,0,188927,42177,231104,Paso Robles
+Escalon Unified,185950,0,0,185950,44576,230527,Escalon
+Kingsburg Joint Union High,184207,0,0,184207,46104,230311,Kingsburg
+Gridley Unified,185371,2616,0,187988,41976,229965,Gridley
+Oroville Union High,186929,0,0,186929,42608,229538,Oroville
+Live Oak Unified,178818,0,0,178818,49884,228703,Live Oak
+Oroville City Elementary,174705,11360,0,186065,42166,228232,Oroville
+Hope Elementary-Santa Barbara,185768,0,0,185768,41569,227337,Santa Barbara
+Fremont Unified,194052,0,0,194052,32572,226625,Fremont
+Dos Palos Oro Loma Joint Unified,178495,2499,0,180994,45129,226123,Dos Palos
+Hughson Unified,185357,9099,0,194457,31061,225518,Hughson
