@@ -5,5 +5,5 @@ https://public.tableau.com/app/profile/jordanlarot/viz/SuperintendentTotalPayBen
 Visualize the pay of educational superintendents in California
 
 ### Data Used
-https://www.kaggle.com/datasets/camnugent/california-housing-feature-engineering?select=cal_cities_lat_long.csv
+https://www.kaggle.com/datasets/camnugent/california-housing-feature-engineering?select=cal_cities_lat_long.csv <br>
 https://transparentcalifornia.com/salaries/search/?q=superintendent&y=2020
