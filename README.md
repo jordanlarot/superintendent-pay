@@ -1,4 +1,5 @@
-# superintendent-salaries
+# To see visualization
+https://public.tableau.com/app/profile/jordanlarot/viz/SuperintendentTotalPayBenefitsinCalifornia/TotalPayBenefits
 
 ## Goal
 Visualize the pay of educational superintendents in California
