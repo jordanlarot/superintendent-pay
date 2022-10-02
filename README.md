@@ -6,4 +6,4 @@ conda install python=3.9 jupyter scikit-learn pandas numpy matplotlib seaborn fu
 
 ### Data Used
 https://www.kaggle.com/datasets/camnugent/california-housing-feature-engineering?select=cal_cities_lat_long.csv
-https://transparentcalifornia.com/salaries/search/?q=principal&y=2020&page=1
+https://transparentcalifornia.com/salaries/search/?q=superintendent&y=2020
